@@ -1,0 +1,52 @@
+// Copyright 2021 Boppy Games, LLC
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//   http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME# : StateMachineBehaviour
+{
+  // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
+  //override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
+  //{
+  //    #NOTRIM#
+  //}
+
+  // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
+  //override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
+  //{
+  //    #NOTRIM#
+  //}
+
+  // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
+  //override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
+  //{
+  //    #NOTRIM#
+  //}
+
+  // OnStateMove is called right after Animator.OnAnimatorMove()
+  //override public void OnStateMove(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
+  //{
+  //    // Implement code that processes and affects root motion
+  //}
+
+  // OnStateIK is called right after Animator.OnAnimatorIK()
+  //override public void OnStateIK(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
+  //{
+  //    // Implement code that sets up animation IK (inverse kinematics)
+  //}
+}
+#ROOTNAMESPACEEND#

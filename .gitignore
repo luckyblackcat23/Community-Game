@@ -72,3 +72,5 @@ crashlytics-build.properties
 
 # Rider Ignore
 .idea/
+
+### 3rd party assets that are in the Asset.manifest
