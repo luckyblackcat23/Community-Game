@@ -10,7 +10,8 @@
 ## New Feature
 
 1. [ ] All new assets (including texture, scripts, etc) are within a `Features/<feature>` directory
-2. [ ] Screenshots added if necessary
+2. [ ] Any new art assets match the level of detail expected in the game (assets should be low-poly)
+3. [ ] Screenshots added if necessary
 
 ### Description of feature
 
