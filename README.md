@@ -30,7 +30,7 @@ git clone https://github.com/<your-github-username>/Community-Game
 
 Now you should be able to open the community project through the UnityHub.
 
-Before contributing code, please take a look at the [Coding Conventions](https://github.com/boppygames/Community-Game/wiki/Coding-Conventions)
+Before contributing code, please take a look at the [LICENSE](https://github.com/boppygames/Community-Game/blob/main/LICENSE) and the [Wiki](https://github.com/boppygames/Community-Game/wiki)
 
 ## How can I help?
 
@@ -43,7 +43,3 @@ https://github.com/boppygames/Community-Game/labels/good%20first%20issue
 For right now, we are only accepting contributions from the "core group", which is a subset of the subscribers from the Discord server. We will open this up to the public after the first month of development.
 
 Notice: All contributions are subject to the terms of the License. Please read the License before contributing.
-
-## License
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
