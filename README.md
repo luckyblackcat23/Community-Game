@@ -15,6 +15,8 @@ Right now the goals are very general as we narrow in on a game proposal that we 
 
 ## Getting Started
 
+Please read the [Contributing](https://github.com/boppygames/Community-Game/wiki/Contributing-to-the-Project) wiki first.
+
 If you want to help contribute to this game, you will need a couple of things:
 
  - CLI tools: git, git-lfs, etc.
@@ -31,15 +33,3 @@ git clone https://github.com/<your-github-username>/Community-Game
 Now you should be able to open the community project through the UnityHub.
 
 Before contributing code, please take a look at the [LICENSE](https://github.com/boppygames/Community-Game/blob/main/LICENSE) and the [Wiki](https://github.com/boppygames/Community-Game/wiki)
-
-## How can I help?
-
-Any issues marked with "good first issue" is a good place for a newcomers to get started. You can see those issues here:
-
-https://github.com/boppygames/Community-Game/labels/good%20first%20issue
-
-## Contributing
-
-For right now, we are only accepting contributions from the "core group", which is a subset of the subscribers from the Discord server. We will open this up to the public after the first month of development.
-
-Notice: All contributions are subject to the terms of the License. Please read the License before contributing.
